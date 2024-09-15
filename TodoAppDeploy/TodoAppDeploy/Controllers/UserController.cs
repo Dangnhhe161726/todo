@@ -33,14 +33,12 @@ namespace TodoAppDeploy.Controllers
         [HttpPost("Login")]
         public IActionResult Login([FromBody] UserLogin login)
         {
-            // Kiểm tra thông tin đăng nhập
             var user = _context.Users.FirstOrDefault(u => u.UserName == login.Username  && u.Password == login.Password);
             if (user == null)
             {
                 return Unauthorized("Invalid credentials.");
             }
 
-            // Tạo JWT token
             var token = GenerateJwtToken(user);
             return Ok(token);
         }

@@ -53,6 +53,7 @@ CREATE TABLE `users` (
   `RoleNumber` varchar(45) DEFAULT NULL,
   `RoleId` int DEFAULT NULL,
   `PhoneNumber` int DEFAULT NULL,
+  `Password` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`Id`),
   KEY `fk_users_roles_idx` (`RoleId`),
   CONSTRAINT `fk_users_roles` FOREIGN KEY (`RoleId`) REFERENCES `roles` (`Id`)
@@ -65,7 +66,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'danghoan','danghoan2382002@gmail.com','HE161494',1,99999999),(2,'hongdang','hongdang@gmail.com','HE161999',2,99999999),(3,'thuha','thuha@gmail.com','HE161888',3,99999999);
+INSERT INTO `users` VALUES (1,'danghoan','danghoan2382002@gmail.com','HE161494',1,99999999,'123'),(2,'hongdang','hongdang@gmail.com','HE161999',2,99999999,'123'),(3,'thuha','thuha@gmail.com','HE161888',3,99999999,'123');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -78,4 +79,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-09-15 23:16:12
+-- Dump completed on 2024-09-15 23:43:28
