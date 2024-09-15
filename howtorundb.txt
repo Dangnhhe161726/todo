@@ -1,1 +1,18 @@
 dotnet ef DBcontext scaffold "server =localhost; database = todoappdeploy; uid=root;pwd=12345678" Pomelo.EntityFrameworkCore.MySql -o Models 
+
+  "ConnectionStrings": {
+    "DefaultConnection": "server =localhost; database = todoappdeploy;uid=root;pwd=12345678"
+  }
+
+       protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                var connectionString = new ConfigurationBuilder()
+                    .AddJsonFile("appsettings.json")
+                    .Build()
+                    .GetConnectionString("DefaultConnection");
+
+                optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+            }
+        }

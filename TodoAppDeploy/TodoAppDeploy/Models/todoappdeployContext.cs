@@ -56,6 +56,8 @@ namespace TodoAppDeploy.Models
 
                 entity.Property(e => e.Email).HasMaxLength(650);
 
+                entity.Property(e => e.Password).HasMaxLength(45);
+
                 entity.Property(e => e.RoleNumber).HasMaxLength(45);
 
                 entity.Property(e => e.UserName).HasMaxLength(45);
