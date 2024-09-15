@@ -1,0 +1,1 @@
+dotnet ef DBcontext scaffold "server =localhost; database = todoappdeploy; uid=root;pwd=12345678" Pomelo.EntityFrameworkCore.MySql -o Models 
