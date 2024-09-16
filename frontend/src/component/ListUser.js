@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import axiosInstance from '../common/axios';
+import React, { useState, useEffect } from "react";
+import axiosInstance from "../common/axios";
 
-const ListUser = () => {
+const ListUser = ({ token }) => {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -9,7 +9,11 @@ const ListUser = () => {
   useEffect(() => {
     const fetchUsers = async () => {
       try {
-        const response = await axiosInstance.get('User/GetAllUser');
+        const response = await axiosInstance.get("User/GetAllUser", {
+          headers: {
+            Authorization: `Bearer ${token}`, // Attach token to request headers
+          },
+        });
         setUsers(response.data);
         setLoading(false);
       } catch (err) {
@@ -19,7 +23,7 @@ const ListUser = () => {
     };
 
     fetchUsers();
-  }, []);
+  }, [token]);
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error}</p>;
