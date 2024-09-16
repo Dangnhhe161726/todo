@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import axiosInstance from '../common/axios';
 
 const ListUser = () => {
   const [users, setUsers] = useState([]);
@@ -9,7 +9,7 @@ const ListUser = () => {
   useEffect(() => {
     const fetchUsers = async () => {
       try {
-        const response = await axios.get('https://localhost:7190/api/User/GetAllUser');
+        const response = await axiosInstance.get('User/GetAllUser');
         setUsers(response.data);
         setLoading(false);
       } catch (err) {
