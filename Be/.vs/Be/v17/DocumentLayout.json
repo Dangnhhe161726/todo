@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn_Deploy\\todo\\Be\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\be.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\models\\todoappdeploycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\models\\todoappdeploycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\be\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:be\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|d:\\learn_deploy\\todo\\be\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{168766B1-8949-4870-958E-811E07D60EDC}|Be\\Be.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Dockerfile",
+              "RelativeDocumentMoniker": "Be\\Dockerfile",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Dockerfile",
+              "RelativeToolTip": "Be\\Dockerfile",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T16:17:05.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\appsettings.json",
+              "RelativeDocumentMoniker": "Be\\appsettings.json",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\appsettings.json",
+              "RelativeToolTip": "Be\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T16:18:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Be.csproj",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Be.csproj",
+              "RelativeDocumentMoniker": "Be\\Be.csproj",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Be.csproj",
+              "RelativeToolTip": "Be\\Be.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T16:17:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Program.cs",
+              "RelativeDocumentMoniker": "Be\\Program.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Program.cs",
+              "RelativeToolTip": "Be\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:17:39.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Be\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Be\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T16:17:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Be\\appsettings.Development.json",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\appsettings.Development.json",
+              "RelativeToolTip": "Be\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T17:03:32.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Be\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Be\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:04:12.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Be\\Models\\UserLogin.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Be\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:03:21.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Be\\Models\\User.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\User.cs",
+              "RelativeToolTip": "Be\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:03:17.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "todoappdeployContext.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\todoappdeployContext.cs",
+              "RelativeDocumentMoniker": "Be\\Models\\todoappdeployContext.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\todoappdeployContext.cs",
+              "RelativeToolTip": "Be\\Models\\todoappdeployContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:18:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Be\\Models\\Role.cs",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\Be\\Models\\Role.cs",
+              "RelativeToolTip": "Be\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:02:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Learn_Deploy\\todo\\Be\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Learn_Deploy\\todo\\Be\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T16:17:34.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

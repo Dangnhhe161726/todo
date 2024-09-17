@@ -1,0 +1,97 @@
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.AssemblyInfo.cs
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Be.exe
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Be.deps.json
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Be.runtimeconfig.json
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Be.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Be.pdb
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Windows 11\Desktop\Be\Be\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.Be.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.build.Be.props
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Be.props
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Be.props
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\scopedcss\bundle\Be.styles.css
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.csproj.Up2Date
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.dll
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\refint\Be.dll
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.pdb
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\Be.genruntimeconfig.cache
+C:\Users\Windows 11\Desktop\Be\Be\obj\Debug\net6.0\ref\Be.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\appsettings.Development.json
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\appsettings.json
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Be.exe
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Be.deps.json
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Be.runtimeconfig.json
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Be.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Be.pdb
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Humanizer.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\MySqlConnector.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learn_Deploy\todo\Be\Be\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.csproj.AssemblyReference.cache
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.AssemblyInfoInputs.cache
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.AssemblyInfo.cs
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.csproj.CoreCompileInputs.cache
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.MvcApplicationPartsAssemblyInfo.cs
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.MvcApplicationPartsAssemblyInfo.cache
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.sourcelink.json
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.Be.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.build.Be.props
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Be.props
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Be.props
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\scopedcss\bundle\Be.styles.css
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.csproj.Up2Date
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.dll
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\refint\Be.dll
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.pdb
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\Be.genruntimeconfig.cache
+D:\Learn_Deploy\todo\Be\Be\obj\Debug\net6.0\ref\Be.dll
