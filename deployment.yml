@@ -30,8 +30,22 @@ services:
     networks:
       - todo-network
     restart: always
-
+  reactjs-container:
+    build:
+      context: ./frontend
+      dockerfile: DockerFileReactJs
+    container_name: reactjs-container
+    ports:
+      - "3000:80"
+    restart:
+      always
+    networks:
+      - todo-network
+    
+     
 networks:
   todo-network:
     name: todo-network
     driver: bridge
+
+    # docker-compose -f ./deployment.yml up -d
